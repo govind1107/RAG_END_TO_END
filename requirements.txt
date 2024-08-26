@@ -1,0 +1,8 @@
+pandas
+openai
+faiss-cpu
+numpy
+langchain
+PyMuPDF
+flask
+langchain_openai

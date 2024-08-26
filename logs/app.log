@@ -1,0 +1,1075 @@
+2024-08-24 17:26:30,356 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:26:32,528 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:26:33,105 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:26:33,107 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:26:37,241 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:26:37,744 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:26:38,200 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:26:41,069 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:26:41,691 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:26:41,917 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:26:42,506 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:26:42,521 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:26:42,521 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:26:42,528 - RAGAppLogger - ERROR - Error in embedding generation : BaseModel.__init__() takes 1 positional argument but 2 were given
+2024-08-24 17:26:42,530 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to generate embeddings
+2024-08-24 17:28:04,003 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:28:04,040 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:28:04,129 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:28:04,130 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:28:04,971 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:28:05,372 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:28:05,849 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:28:08,751 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:28:09,345 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:28:09,534 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:28:10,142 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:28:10,142 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:28:10,142 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:28:10,142 - RAGAppLogger - ERROR - Error in embedding generation : BaseModel.__init__() takes 1 positional argument but 2 were given
+2024-08-24 17:28:10,154 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to generate embeddings
+2024-08-24 17:28:44,105 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:28:44,133 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:28:44,263 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:28:44,263 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:28:45,177 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:28:45,642 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:28:46,130 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:28:49,247 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:28:49,841 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:28:50,031 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:28:50,637 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:28:50,652 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:28:50,652 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:28:50,652 - RAGAppLogger - ERROR - Error in embedding generation : 1 validation error for OpenAIEmbeddings
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-08-24 17:28:50,656 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to generate embeddings
+2024-08-24 17:29:31,808 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:29:31,851 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:29:31,968 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:29:31,970 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:29:32,842 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:29:33,239 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:29:33,699 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:29:36,572 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:29:37,165 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:29:37,350 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:29:37,946 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:29:37,962 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:29:37,963 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:29:45,214 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:30:02,120 - openai._base_client - INFO - Retrying request to /embeddings in 0.785982 seconds
+2024-08-24 17:30:06,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:30:14,380 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:30:22,193 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:30:30,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:30:41,939 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:30:50,412 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:31:00,181 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:31:08,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:31:18,631 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:31:26,691 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:31:29,460 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-24 17:31:29,460 - RAGAppLogger - INFO - Embedding storage
+2024-08-24 17:31:29,460 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-24 17:31:29,492 - RAGAppLogger - INFO - Error in vector store operations : FAISS.__init__() missing 1 required positional argument: 'index_to_docstore_id'
+2024-08-24 17:31:29,493 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-24 17:35:15,678 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:35:15,764 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:35:15,891 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:35:15,893 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:35:16,708 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:35:17,099 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:35:17,567 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:35:20,410 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:35:21,004 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:35:21,196 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:35:21,787 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:35:21,804 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:35:21,805 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:35:29,252 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:35:38,008 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:35:47,281 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:35:55,851 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:36:04,167 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:36:12,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:37:43,584 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:37:43,628 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:37:43,725 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:37:43,726 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:37:44,553 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:37:45,060 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:37:45,510 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:37:48,458 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:37:49,035 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:37:49,259 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:37:49,847 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:37:49,847 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:37:49,863 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:37:58,312 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:05,618 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:12,730 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:21,836 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:30,693 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:39,543 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:48,835 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:38:56,905 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:39:05,071 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:39:12,495 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:39:15,049 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-24 17:39:15,049 - RAGAppLogger - INFO - Embedding storage
+2024-08-24 17:39:15,049 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-24 17:39:15,049 - RAGAppLogger - INFO - Error in vector store operations : 'list' object has no attribute 'embedding_dim'
+2024-08-24 17:39:15,049 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-24 17:40:53,832 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:40:53,872 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:40:53,986 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:40:53,994 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:40:54,957 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:40:55,379 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:40:55,862 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:40:58,986 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:40:59,557 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:40:59,764 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:41:00,525 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:41:00,533 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:41:00,533 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:41:10,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:41:19,872 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:41:32,380 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-24 17:41:32,417 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-24 17:41:32,535 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-24 17:41:32,535 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-24 17:41:33,606 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-24 17:41:34,175 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-24 17:41:34,848 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-24 17:41:38,159 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-24 17:41:38,929 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-24 17:41:39,162 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-24 17:41:39,783 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-24 17:41:39,805 - RAGAppLogger - INFO - Embedding generation
+2024-08-24 17:41:39,805 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-24 17:41:48,179 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:41:56,251 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:05,376 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:14,798 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:22,635 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:30,437 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:39,223 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:48,078 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:42:56,311 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:43:04,299 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-24 17:43:07,156 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-24 17:43:07,156 - RAGAppLogger - INFO - Embedding storage
+2024-08-24 17:43:07,156 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-24 17:43:08,094 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-24 17:43:09,797 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-24 17:43:09,797 - RAGAppLogger - INFO - DONE
+2024-08-25 16:59:06,715 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 16:59:08,476 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 16:59:09,030 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 16:59:09,043 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 16:59:17,161 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 16:59:17,910 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 16:59:19,973 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 16:59:29,916 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 16:59:37,445 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 16:59:38,021 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 16:59:38,898 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 16:59:38,913 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 16:59:38,913 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 16:59:46,441 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 16:59:54,968 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:00:03,469 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:00:12,357 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:00:20,513 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:00:29,815 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:00:40,608 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:00:50,920 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:01:00,290 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:01:08,153 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:01:10,876 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:01:10,877 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:01:10,877 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:01:11,876 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:01:12,868 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:01:12,868 - RAGAppLogger - INFO - DONE
+2024-08-25 17:02:05,738 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:02:05,767 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:02:05,916 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:02:05,937 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:02:06,785 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:02:07,191 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:02:07,671 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:02:10,549 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:02:11,127 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:02:11,338 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:02:11,938 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:02:11,938 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:02:11,938 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:02:20,719 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:02:29,234 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:02:38,248 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:02:46,370 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:02:54,886 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:03:05,547 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:03:21,164 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:03:34,252 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:03:43,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:03:51,744 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:03:54,479 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:03:54,481 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:03:54,482 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:03:55,552 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:03:56,641 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:03:56,641 - RAGAppLogger - INFO - DONE
+2024-08-25 17:03:57,447 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:03:57,447 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:11:14,076 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:11:14,076 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:11:14,257 - RAGAppLogger - ERROR - Error in document retrieval BaseModel.__init__() takes 1 positional argument but 2 were given
+2024-08-25 17:11:14,257 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:11:14,257 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:11:14] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:12:25,079 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:12:25,310 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:12:26,103 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:12:26,156 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:12:27,687 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:12:28,342 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:12:29,421 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:12:34,319 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:12:36,176 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:12:36,659 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:12:37,459 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:12:37,459 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:12:37,459 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:12:53,399 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:12:57,410 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:12:57,493 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:12:57,493 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:12:58,288 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:12:58,701 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:12:59,132 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:13:02,146 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:13:02,865 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:13:03,083 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:13:03,677 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:13:03,677 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:13:03,677 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:13:11,706 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:13:19,766 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:13:27,640 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:13:37,730 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:13:46,115 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:13:55,346 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:14:03,813 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:14:12,231 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:14:20,789 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:14:28,208 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:14:30,769 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:14:30,769 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:14:30,769 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:14:31,503 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:14:32,051 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:14:32,051 - RAGAppLogger - INFO - DONE
+2024-08-25 17:14:32,275 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:14:32,290 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:15:01,326 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:15:01,326 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:15:01,827 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:15:01,827 - RAGAppLogger - ERROR - Error in document retrieval 'NoneType' object has no attribute 'similarity_search_by_vector'
+2024-08-25 17:15:01,827 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:15:01,838 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:15:01] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:18:36,022 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:18:36,059 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:18:36,143 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:18:36,143 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:18:36,962 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:18:37,392 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:18:37,830 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:18:40,734 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:18:41,328 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:18:41,531 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:18:42,139 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:18:42,155 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:18:42,155 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:18:49,343 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:18:57,434 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:19:05,010 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:19:14,645 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:19:24,033 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:19:33,045 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:19:42,681 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:19:52,193 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:20:00,658 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:20:08,311 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:20:10,904 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:20:10,904 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:20:10,904 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:20:11,638 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:20:12,436 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:20:12,436 - RAGAppLogger - INFO - DONE
+2024-08-25 17:20:12,463 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:20:12,463 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:20:22,694 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:20:22,694 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:20:23,140 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:20:23,155 - RAGAppLogger - INFO - Embedded [-0.01878741942346096, -0.019987497478723526, -0.0006642669904977083, -0.027312107384204865, -0.0017251113895326853, -0.004172683227807283, -0.033629756420850754, -0.009979954920709133, 0.0018742588581517339, -0.022263506427407265, 0.01765631139278412, -0.005176196340471506, -0.024401575326919556, -0.006379722151905298, 0.0029174296651035547, -0.011580057442188263, 0.01682867296040058, 0.00012770220928359777, 0.021808303892612457, -0.0018518436700105667, -0.0136353624984622, 0.017849428579211235, -0.01382158137857914, 0.015228569507598877, 0.017877016216516495, -0.02891221083700657, 0.027698339894413948, -0.017670106142759323, 0.007131494581699371, 0.00689699687063694, 0.015614801086485386, 0.000344203261192888, -0.021656570956110954, 0.009931675158441067, -0.02343599498271942, -0.021780716255307198, 0.002084617270156741, -0.009448885917663574, 0.004338210914283991, 0.00420027133077383, 0.024139489978551865, 0.02322908490896225, -0.006741814315319061, 0.011062783189117908, 0.01812530867755413, 0.010483435355126858, 0.01034549530595541, -0.029574323445558548, 0.006821129936724901, 0.015104423277080059, 0.012304242700338364, 0.018249453976750374, -0.015132010914385319, -0.0011949046747758985, 0.005427936557680368, -0.016690732911229134, -0.013600877486169338, -0.01129728090018034, 0.004072676878422499, -0.00023061833053361624, 0.00471064867451787, 0.005638294853270054, -0.00922128465026617, 0.004352005198597908, 0.005396900232881308, -0.0020656506530940533, -0.03517468273639679, -0.015187187120318413, -0.012490461580455303, -0.01979438029229641, 0.021463453769683838, 0.031036486849188805, -0.01638726517558098, 0.012704268097877502, 0.014856131747364998, -0.009062654338777065, -0.03329870104789734, -0.006714226678013802, 0.005058947019279003, 0.0007052179425954819, 0.017394226044416428, -0.007097010035067797, -0.009628207422792912, 0.013773302547633648, 0.0074970354326069355, 0.02767075225710869, 0.0017914948984980583, 0.006479728501290083, -0.04814103990793228, -0.006893548183143139, 0.01598723791539669, 0.0016199321253225207, 0.046678874641656876, 0.010414465330541134, -0.010062718763947487, 0.0030864060390740633, -0.023560142144560814, 0.011276589706540108, 0.008345366455614567, -0.014104358851909637, 0.0004304157046135515, 0.007228052709251642, -0.020332347601652145, -0.016152767464518547, -0.009510958567261696, 0.0007047868566587567, -0.0015078559517860413, 0.010090306401252747, 0.030926134437322617, 0.037298958748579025, -0.004448562860488892, 0.03688513860106468, -0.002096686977893114, -0.01746319606900215, -0.008303984068334103, -0.0033157311845570803, 0.02891221083700657, -0.008862640708684921, -0.021146193146705627, -0.014869925566017628, 0.027132784947752953, 0.004752031061798334, -6.320451211649925e-05, 0.013076705858111382, -0.0037450692616403103, -0.0013656053924933076, -0.03812659904360771, -0.020359935238957405, 0.009483370929956436, -0.012214581482112408, 0.03269176557660103, 0.005296893417835236, 0.006583183538168669, -0.024911953136324883, -0.014580251649022102, 0.03591955825686455, -0.012111126445233822, 0.007931546308100224, -0.008793670684099197, -0.02407051995396614, 0.018042543902993202, 0.025670623406767845, 0.025987884029746056, -0.006317649036645889, -0.014704396948218346, 0.012973250821232796, 0.015421684831380844, 0.00897299312055111, 0.001832876936532557, -0.01754596084356308, 0.031698599457740784, -0.001994956284761429, -0.013497423380613327, 0.013124984689056873, 0.025491300970315933, 0.013124984689056873, 0.009952366352081299, 0.037381723523139954, -0.01187662873417139, -0.014635427854955196, -0.022925617173314095, 0.0067487116903066635, 0.025849943980574608, -0.018304629251360893, 0.015049247071146965, 0.038540419191122055, 0.010393774136900902, 0.02695346437394619, -0.009104035794734955, 0.004824449308216572, 0.014690603129565716, 0.03707825392484665, -0.02089790068566799, 0.03454016149044037, 0.010035130195319653, 0.01203525997698307, -0.023670492693781853, 0.011214517056941986, -0.004972734954208136, 0.015476861037313938, -0.007324610836803913, 0.015614801086485386, 0.011986980214715004, 0.020539257675409317, -0.02949155867099762, -0.015683770179748535, 0.005600361619144678, -0.023104939609766006, 0.026112031191587448, -0.006821129936724901, 0.012214581482112408, 0.03801624849438667, 0.0160148274153471, 0.02011164277791977, -0.6466624140739441, -0.008993684314191341, -0.003489880356937647, -0.015711359679698944, -0.004155440721660852, 0.009786838665604591, 0.011724894866347313, 0.010400671511888504, -0.012469770386815071, 0.013345688581466675, -0.003620923263952136, -0.012159405276179314, 0.004658921621739864, -0.015145805664360523, 0.018690861761569977, -0.03881629928946495, 0.019297797232866287, -0.004569260403513908, 0.0003299781819805503, -0.0041313013061881065, 0.008028103969991207, 0.009848911315202713, -0.011462808586657047, 0.0021087569184601307, 0.005690022371709347, -0.0006922860629856586, 0.001403538859449327, -0.009897190146148205, -0.01037308294326067, -0.004338210914283991, -0.01731146313250065, 0.02375325746834278, 0.02103584073483944, 0.008359160274267197, 0.04281655699014664, -0.013490526005625725, -0.03324352577328682, 0.03004331886768341, -0.002513955347239971, 0.052996523678302765, -0.015435478650033474, -0.014194020070135593, 0.020387522876262665, -0.016428647562861443, -0.0053313784301280975, 0.003707135794684291, 0.009683383628726006, 0.018594304099678993, -0.009035065770149231, 0.002607064787298441, -0.01789080910384655, 0.006848718039691448, 0.0011078300885856152, -0.0006190054700709879, -0.022691119462251663, -0.002543267561122775, 0.010124791413545609, 0.004631333518773317, -0.0007741879089735448, -0.0020018534269183874, -0.007938443683087826, 0.041106101125478745, -0.025146450847387314, -0.010966225527226925, -0.004965837579220533, 0.0053382758051157, -0.029629498720169067, 0.0045175328850746155, 0.024567103013396263, -0.003095027292147279, 0.02375325746834278, 0.01209043525159359, -0.025960296392440796, 0.01722869835793972, -8.195572445401922e-05, 0.029601911082863808, 0.007283228915184736, 0.008124662563204765, 0.008172941394150257, 0.004976183176040649, -0.0256844162940979, -0.01789080910384655, -0.011035194620490074, 0.009959263727068901, 0.027519017457962036, -0.006193503271788359, 0.008621246553957462, -0.004265792667865753, 0.0029139812104403973, -0.03186412528157234, 0.002584649482741952, 0.010973121970891953, 0.00013772440433967859, -0.014014697633683681, 0.010090306401252747, 0.029270855709910393, -0.007448756601661444, 0.009435092099010944, 0.020277170464396477, -0.012028362601995468, -0.04463736340403557, -0.0008802292286418378, 0.018663274124264717, 0.01624932512640953, 0.011007606983184814, 0.015007865615189075, -0.015807917341589928, -0.008062588982284069, 0.015628594905138016, -0.022346269339323044, -0.0025001612957566977, -0.001879431656561792, 0.02248420938849449, -0.018828801810741425, -0.01227665413171053, -0.03189171478152275, 0.0013457764871418476, -0.005941763054579496, -0.002863978035748005, -0.009786838665604591, 0.011400735937058926, -0.02277388423681259, 0.020332347601652145, -0.015063040889799595, 0.005176196340471506, 0.01053171418607235, 0.012524946592748165, -0.01604241505265236, -0.029132915660738945, 0.004579606000334024, -0.0035381594207137823, -0.01693902350962162, 0.008159147575497627, -0.013656053692102432, 0.02236006408929825, 0.015780329704284668, 0.02207038924098015, -0.0005112399230711162, -0.004365799017250538, 7.538202044088393e-05, -0.025643033906817436, 0.008593657985329628, 0.007945340126752853, -0.004317520186305046, -0.041161276400089264, 0.008676421828567982, -0.01884259469807148, -0.014621633104979992, 0.017532166093587875, -0.00169752340298146, 0.005269305780529976, -0.01078000571578741, 0.002601891988888383, -0.003551953472197056, 0.0018483952153474092, -0.01440092921257019, -0.006859063636511564, -0.012987045571208, -0.027339695021510124, 0.0007043558289296925, 0.002526025054976344, 0.012531843036413193, 0.00864193681627512, -0.004272689577192068, -0.0152975395321846, -0.032305534929037094, -0.014635427854955196, 0.006027975119650364, -0.015559624880552292, -0.02002887986600399, 0.019877145066857338, -0.022704914212226868, 0.0013466386590152979, 0.014552663080394268, -0.011924907565116882, -0.002205314813181758, -0.01145591214299202, -0.0027932836674153805, -0.015366509556770325, -0.006934930570423603, 0.014194020070135593, 0.01664935052394867, -0.025380948558449745, 0.0021553116384893656, 0.0018018404953181744, -0.019546089693903923, 0.010669654235243797, 0.031146837398409843, -0.011952495202422142, -0.0002868719748221338, -0.029739851132035255, 0.026305146515369415, -0.01936676725745201, 0.023532552644610405, 0.0032795220613479614, -0.0032398642506450415, 0.00258982228115201, 0.02311873435974121, 0.008883331902325153, 0.01412505004554987, 0.037243783473968506, 0.00527275400236249, 0.0331883504986763, -0.0010328253265470266, 0.005758992396295071, -0.031781360507011414, 0.020732372999191284, -0.01335948333144188, -0.0035260897129774094, 0.0026898288633674383, 0.026498261839151382, -0.036609258502721786, -0.005703816656023264, 0.0028691506013274193, 0.0320296548306942, -0.007890164852142334, 0.008338469080626965, 0.014842336997389793, -0.0005633984110318124, -0.004434769041836262, -0.010007542558014393, -0.012373212724924088, 0.009455782361328602, 0.0020156472455710173, 0.003965773154050112, 0.012531843036413193, 0.01055930182337761, 0.022925617173314095, 0.02896738611161709, -0.025243008509278297, -0.017877016216516495, 0.014331959187984467, 0.011959392577409744, -0.011262795887887478, 0.013145675882697105, -0.0036105778999626637, 0.020235788077116013, -0.005234820768237114, 0.031781360507011414, -0.04447183758020401, -0.021504836156964302, -0.008579864166676998, 0.021946243941783905, 0.010138585232198238, 0.02207038924098015, -0.022208329290151596, -0.0006323683774098754, -0.0008616935228928924, 0.008648834191262722, 0.023339437320828438, -0.041768211871385574, -0.010483435355126858, -0.01844256930053234, 0.006931481882929802, 0.006796990521252155, -0.001008685794658959, -0.007669460494071245, -0.0023398061748594046, -0.0005284823710098863, 0.011828349903225899, 0.006227988284081221, 0.0005366725963540375, 0.0176011361181736, -0.002313942415639758, 0.010124791413545609, 0.0019897837191820145, 0.00040843154420144856, -0.015835504978895187, 0.0002491540217306465, -0.021049635484814644, 0.002246696734800935, 9.068473445950076e-05, 0.017063170671463013, 0.0020035775378346443, 0.005714161787182093, 0.007152185775339603, 0.002486367477104068, 0.007386683486402035, 0.0022777332924306393, -0.00516585074365139, -0.0025122312363237143, -0.034209106117486954, 0.009814426302909851, 0.011048989370465279, -0.024263635277748108, 0.0016587277641519904, -0.011186929419636726, -0.0031933095306158066, -0.0019449531100690365, 0.03150548040866852, 0.027836279943585396, -0.00100609939545393, 0.01284220814704895, -0.00564864045009017, 0.011897319927811623, -0.014456105418503284, 0.008386747911572456, -0.028029395267367363, -0.00991098489612341, -0.010573096573352814, 0.013849169947206974, 0.01322843972593546, -0.015449273400008678, -0.013124984689056873, 0.020180612802505493, 0.003317455528303981, -0.005096880719065666, -0.009359224699437618, 0.0021397932432591915, -0.004824449308216572, -0.008110868744552135, -0.0386783592402935, -0.01382158137857914, -0.02089790068566799, -0.012490461580455303, -0.0030088149942457676, 0.0020484081469476223, -0.031615834683179855, 0.008572966791689396, 0.027408665046095848, -0.03208483010530472, -0.011676616035401821, -0.014235401526093483, -0.0023570486810058355, 0.08806085586547852, -0.009166108444333076, 0.006100393831729889, 0.008421232923865318, -0.017559753730893135, 0.008945404551923275, -0.013318100944161415, -0.03277453035116196, -0.018883977085351944, 0.009800632484257221, -0.0191874448210001, 0.015807917341589928, -0.00024355021014343947, -0.00825570523738861, -0.021753128618001938, -0.0015785502037033439, 0.002582925371825695, -0.032884880900382996, 0.019490912556648254, -0.008090177550911903, -0.0349263921380043, 0.03018125891685486, 0.018277041614055634, 0.004814103711396456, -0.005262408871203661, 0.010179967619478703, -0.01070413924753666, -0.01475957315415144, -0.030319198966026306, -0.04347866773605347, -0.019008124247193336, -0.0075866966508328915, 0.0037278267554938793, -0.015435478650033474, -0.006059011910110712, 0.013242234475910664, -0.007972928695380688, 0.0019225379219278693, -0.013366379775106907, 0.014690603129565716, 0.0023001483641564846, 0.0034157377667725086, 0.0027346592396497726, 0.010476537980139256, -0.008386747911572456, -0.03649890795350075, 0.0031295123044401407, 0.01659417524933815, -0.00393128814175725, -0.011317972093820572, 0.017559753730893135, -0.004565812181681395, 0.00075479008955881, -0.011800761334598064, -0.007469447795301676, -0.0071728769689798355, -0.019725410267710686, -0.008000516332685947, 0.006293509621173143, -0.03898182511329651, -0.03382287174463272, -0.018649479374289513, -0.00922128465026617, 0.012600813060998917, 0.016607968136668205, -0.04656852409243584, -0.021780716255307198, -0.01979438029229641, -0.01968402974307537, -0.003436428727582097, -0.007814297452569008, -0.019752999767661095, -0.021518630906939507, -0.012862899340689182, 0.02224971167743206, -0.0010647239396348596, 0.014828543178737164, -0.0045382240787148476, 0.00447959965094924, 0.011676616035401821, -0.005969350691884756, -0.014566457830369473, 0.013414658606052399, -0.020042672753334045, 0.01050412654876709, 0.003924391232430935, 0.005103777628391981, 0.01630450040102005, 0.01976679265499115, 0.0014052630867809057, 0.020842725411057472, 0.01055930182337761, 0.0019501259084790945, -0.013035324402153492, 0.01322843972593546, -0.00438649021089077, 0.015380303375422955, -0.001729422016069293, 0.007717739325016737, 0.013083603233098984, 0.0008108281763270497, -0.022084183990955353, -0.03324352577328682, 0.0016276913229376078, 0.005189990159124136, 0.025118863210082054, -0.001112140715122223, -0.006548698525875807, -0.004548569675534964, -0.0036174748092889786, -0.0014595770044252276, -0.034153927117586136, 0.004720994271337986, -0.021684158593416214, 0.0026829317212104797, -0.0222221240401268, 0.005965902470052242, 0.04990667104721069, -0.018139101564884186, -0.0058107199147343636, -0.006062460131943226, -0.04910661652684212, 0.010448950342833996, 0.018014956265687943, -0.027284519746899605, 0.008297087624669075, -0.002634652890264988, -0.01823565922677517, -0.0017725281650200486, -0.022980794310569763, -0.011262795887887478, 0.015366509556770325, -0.01322843972593546, 0.003965773154050112, -0.021946243941783905, -0.0015061317244544625, -0.0018966741627082229, 0.017104553058743477, -0.005400348454713821, -0.03950599953532219, -0.023270467296242714, 0.016580380499362946, 0.002089790068566799, -0.009855808690190315, 0.00582106551155448, -0.02666378952562809, -0.040554340928792953, -0.027436254546046257, 0.0024380884133279324, 0.02386360988020897, -0.02378084510564804, 0.01304222084581852, -0.019752999767661095, -0.0194771196693182, -0.02253938652575016, -0.014442311599850655, -0.017739076167345047, -0.010807594284415245, 0.0337676964700222, 0.002508782548829913, 0.02074616588652134, -0.004703751765191555, 0.003848524298518896, 0.023353232070803642, -0.004989977460354567, 0.0004470116109587252, -0.03147789463400841, -0.006510765291750431, -0.02140827849507332, -0.008807465434074402, -0.02042890526354313, 0.012924971990287304, 0.015035453252494335, -0.006014181300997734, 0.010524817742407322, -0.02449813298881054, -0.011821452528238297, -0.009400607086718082, -0.012531843036413193, -0.040443990379571915, 0.0032329673413187265, -0.028553567826747894, -0.010904151946306229, 0.02372566983103752, -0.043533843010663986, -0.03150548040866852, 0.02811216004192829, 0.03616785258054733, 0.023767052218317986, 0.021946243941783905, 0.02259456180036068, 0.0003741620748769492, 0.016263118013739586, 0.00977994129061699, 0.011855937540531158, 0.021780716255307198, -0.006745263002812862, -0.007503932807594538, 0.0085867615416646, 0.024139489978551865, 0.0004931353032588959, 0.029960554093122482, -0.004403732717037201, 0.006610771641135216, 0.010876564309000969, 0.0023156667593866587, -0.00034549643169157207, -0.0071797738783061504, 0.018304629251360893, -0.02346358262002468, -0.014925101771950722, -0.012166302651166916, -0.009007478132843971, -0.030898546800017357, -0.01765631139278412, 0.017408020794391632, -0.03252623602747917, 0.006500419694930315, -0.0022432482801377773, -0.018083926290273666, 0.02782248519361019, 0.030981309711933136, 0.005765889305621386, 0.005976247601211071, 0.03567126765847206, 0.024373987689614296, 0.012200787663459778, 0.001196629018522799, 0.014800955541431904, 0.009304048493504524, -0.011159340851008892, 0.0058107199147343636, -0.0010492056608200073, -0.011580057442188263, -0.01852533407509327, 0.02721554972231388, -0.0032553826458752155, -0.03379528596997261, -0.022663531824946404, -0.0015880335122346878, 0.01249735802412033, -0.004286483395844698, 0.0032502098474651575, -0.027450047433376312, 0.00525896018370986, 0.008159147575497627, -0.005003771279007196, -0.006952173076570034, -0.000781947048380971, -0.007924649864435196, -0.014676809310913086, 0.015463067218661308, -0.0014475071802735329, 0.01382158137857914, 0.0033933224622160196, 0.008807465434074402, 0.001993232173845172, -0.009062654338777065, 0.003029505955055356, 0.0006263335235416889, 0.010821388103067875, 0.03705066815018654, 0.002077720360830426, 0.00991098489612341, 0.018911564722657204, 0.002434639958664775, 0.007359095849096775, -0.0005810720031149685, 0.03829212859272957, 0.032388295978307724, -0.0222221240401268, 0.00238808523863554, 0.0018708104034885764, -0.007214258890599012, -0.004145095124840736, -0.015118217095732689, -0.01725628599524498, -0.01682867296040058, -0.004424423445016146, -0.009152314625680447, 0.010110997594892979, 0.01258012279868126, -0.018925359472632408, 0.035478152334690094, -0.01031790766865015, -0.009600619785487652, -0.012690474279224873, -0.010035130195319653, 0.016235530376434326, -0.027519017457962036, -0.0023691183887422085, -0.013842272572219372, 0.01034549530595541, 0.009083344601094723, 3.327262220409466e-06, -0.0071177007630467415, 0.01691143587231636, 0.01249735802412033, -0.00593141745775938, -0.02383602224290371, -0.013056015595793724, -0.00012834880908485502, -0.021808303892612457, 0.004155440721660852, 0.007359095849096775, -0.01566997729241848, 0.03939564526081085, -0.004296828992664814, 0.005696919281035662, -0.03870594501495361, -0.007683254778385162, -0.013456040993332863, 0.0011328317923471332, -0.015807917341589928, -0.00783498864620924, 0.01751837134361267, 0.024567103013396263, -0.003900251816958189, -0.010090306401252747, 0.01870465651154518, 0.00825570523738861, 0.011449014768004417, 0.004072676878422499, 0.004600296728312969, 0.02738107740879059, 0.015559624880552292, 0.013897448778152466, 0.00021779423695988953, -0.034788452088832855, -0.026677584275603294, 0.01757354848086834, 0.0006470245425589383, -0.01437334157526493, -0.003458844032138586, -0.02354634739458561, -0.017214903607964516, -0.017242493107914925, 0.004648576024919748, -0.009490267373621464, -0.010848975740373135, 0.026194794103503227, 0.033629756420850754, -0.021656570956110954, 0.0340435765683651, -0.01751837134361267, -0.009704074822366238, -0.014111255295574665, -0.0229394119232893, -0.01791839860379696, -0.00998685136437416, -0.011552469804883003, 0.021435866132378578, 0.014787161722779274, -0.026153411716222763, -0.026774141937494278, 0.014469899237155914, -0.016980405896902084, 0.006324545945972204, 0.0020328897517174482, 0.02066340297460556, 0.008372954092919827, 0.009276460856199265, 0.0075591085478663445, 0.021022045984864235, -0.005924520548433065, 0.017987368628382683, -0.024291222915053368, -0.01815289631485939, -0.004827897995710373, 0.003972670063376427, 0.01849774643778801, -0.00017102397396229208, -0.020884105935692787, -0.008924714289605618, 0.012511152774095535, 0.011414529755711555, 0.020704785361886024, 0.03385046124458313, -0.010773109272122383, -0.016345882788300514, -0.03558850288391113, 0.027105197310447693, 0.011952495202422142, 0.00895919930189848, 0.012849105522036552, -0.039781879633665085, -0.028994975611567497, 0.011214517056941986, 0.012324933893978596, 0.0033984952606260777, -0.0008297949680127203, 0.033464230597019196, -0.020208200439810753, -0.00041532854083925486, -0.001475095166824758, -0.0054313852451741695, 0.005703816656023264, 0.034788452088832855, 0.006793541833758354, 0.026622407138347626, -0.010773109272122383, -0.003751966403797269, 0.01440092921257019, -0.0027794898487627506, -0.01473198551684618, 0.02256697416305542, -0.023422202095389366, 0.0007733257953077555, 0.010283422656357288, -0.046127114444971085, -0.01108347438275814, -0.011352457106113434, 0.015945857390761375, -0.008290190249681473, -0.02516024559736252, -0.017035583034157753, 0.01751837134361267, -0.027450047433376312, 0.03677478805184364, 0.005176196340471506, -0.01128348708152771, -0.007786709349602461, -0.008655731566250324, 0.004458908457309008, 0.012587019242346287, 0.008931610733270645, -0.012373212724924088, -0.010290319100022316, -0.00043752824421972036, 0.02282905951142311, 0.0036278204061090946, -0.04775480553507805, 0.004045088775455952, 0.022235918790102005, -0.020249582827091217, 0.03431945666670799, 0.22589044272899628, -0.010511022992432117, -0.0021966935601085424, 0.027063816785812378, 0.01910468190908432, 0.005496906582266092, 0.0022191088646650314, -0.009814426302909851, -0.018042543902993202, 0.0010983467800542712, 0.0349263921380043, 0.010262731462717056, 0.007214258890599012, 0.008821259252727032, 0.00333987083286047, -0.01509062945842743, -0.02531197853386402, -0.005965902470052242, 0.014345753937959671, -0.012193890288472176, 0.011814556084573269, -0.0030398513190448284, 0.00972476601600647, -0.013642259873449802, 0.00023277364380192012, -0.004276138264685869, -0.027463842183351517, 9.316334035247564e-05, 0.01471819169819355, 0.032305534929037094, 0.008559172973036766, 0.0007280642166733742, 0.0062590246088802814, -0.0018552921246737242, 0.0012250790605321527, 0.017325256019830704, -0.0025174038019031286, -0.020442698150873184, -0.008393645286560059, 0.034898802638053894, -0.014649221673607826, 0.011076577007770538, -0.0011362802470102906, 0.017877016216516495, 0.0006578011089004576, 0.0012552534462884068, -0.03503674268722534, -0.0009862706065177917, -0.003122615395113826, 0.018746037036180496, -0.018511539325118065, -0.0023208395577967167, -0.005283099599182606, 0.033574581146240234, -0.007814297452569008, -0.017270080745220184, -0.02282905951142311, -0.02111860364675522, -0.00976614747196436, -0.011221414431929588, 0.0020363384392112494, 0.03249865025281906, -0.008621246553957462, 0.04505118355154991, 0.00034204794792458415, 0.026112031191587448, -0.0015501000452786684, -0.00013987971760798246, 0.0019346076296642423, 0.011449014768004417, -0.021201368421316147, 0.009904087521135807, 0.0024949887301772833, -0.012752546928822994, -0.019642647355794907, -0.025353360921144485, 0.015407891012728214, 0.0067659541964530945, 0.03307799622416496, 0.01844256930053234, -0.0036692023277282715, 0.02322908490896225, -0.021311720833182335, -0.013124984689056873, -0.014035388827323914, -0.026360321789979935, -0.0020880657248198986, -0.009041963145136833, -0.017904603853821754, 0.0018932257080450654, 0.0024329156149178743, -0.007248743902891874, -0.007600490469485521, -0.015863092616200447, -0.0017932192422449589, 0.005472767166793346, 0.0030260575003921986, 0.044195957481861115, -0.013642259873449802, 0.01936676725745201, -0.024167077615857124, 0.059258997440338135, 0.010855873115360737, -0.005762441083788872, -0.011393838562071323, 0.01190421637147665, -0.025256803259253502, 0.02299458719789982, -0.0012871520593762398, 0.031064074486494064, -0.045575354248285294, -0.021311720833182335, -0.007097010035067797, -0.02560165338218212, 0.003958876244723797, 0.014635427854955196, 0.014469899237155914, 0.01728387363255024, 0.0014362996444106102, -0.012400800362229347, 0.0058452049270272255, -0.007062525022774935, 0.010552405379712582, 0.007241846527904272, 0.007014245726168156, -0.007607387378811836, -0.0141388438642025, 0.01754596084356308, -0.023187704384326935, -0.017766663804650307, -0.005145159550011158, -0.009104035794734955, -0.005207232665270567, -0.035478152334690094, -0.00939370971173048, 0.010283422656357288, -0.00860055536031723, -0.010752418078482151, -0.008552276529371738, 0.01887018419802189, -0.020332347601652145, 0.013083603233098984, -0.011724894866347313, -0.009331637062132359, 0.00922128465026617, -0.04888591542840004, 0.005562427919358015, -0.006021078210324049, -0.007703945506364107, -0.030926134437322617, -0.013987109996378422, -0.0015138908056542277, -0.020277170464396477, -0.014594045467674732, 0.02703622728586197, -0.005324481520801783, 6.298897642409429e-05, -0.042402736842632294, 0.005134814418852329, 0.0113248685374856, -0.011586954817175865, -0.006186606362462044, 0.009248873218894005, -0.016056207939982414, -0.02478780597448349, -0.009642001241445541, -0.1783287525177002, 0.017380431294441223, 0.010476537980139256, -0.02016681805253029, 0.03763001412153244, -0.013414658606052399, 0.03186412528157234, 0.01884259469807148, -0.024539515376091003, 0.02375325746834278, 0.028663918375968933, 0.014649221673607826, -0.04408560320734978, -0.012104230001568794, 0.005327930208295584, -0.004334762692451477, -0.003177791368216276, 0.0049416981637477875, 0.0023035970516502857, 0.01286979578435421, 0.012593916617333889, -0.0023398061748594046, 0.004141646437346935, 0.009883396327495575, -0.007221155799925327, -0.01973920501768589, 0.012207684107124805, 0.0458788238465786, 0.000535379396751523, -0.01206284761428833, -0.01651141047477722, -0.04325796291232109, -0.022635944187641144, -0.003350216196849942, 0.015173393301665783, 0.001383709954097867, 0.021891068667173386, -0.01243528537452221, 0.013490526005625725, 0.017877016216516495, 0.027339695021510124, 0.0150768356397748, -0.0034674652852118015, 0.013035324402153492, 0.00679009361192584, 0.016745908185839653, 0.014897513203322887, -0.005452075973153114, 0.015366509556770325, 0.015863092616200447, 0.021822098642587662, -0.01609759032726288, 0.01942194253206253, -0.00860055536031723, 0.03004331886768341, 0.013131882064044476, 0.013304307125508785, 0.028415627777576447, -0.0014811301371082664, -0.019435737282037735, 0.004445114638656378, -0.03627820312976837, 0.0017647690838202834, -0.014194020070135593, -0.012414594180881977, -0.0016595899360254407, -0.0002413948968751356, 0.0025760282296687365, -0.050458427518606186, -0.008710906840860844, 0.009317843243479729, 0.02880185842514038, -0.008359160274267197, 0.002531197853386402, 0.00976614747196436, 0.01638726517558098, -0.01653899811208248, -0.0002491540217306465, 0.014980277046561241, -0.008924714289605618, -0.010869666934013367, 0.02378084510564804, -0.016842465847730637, 0.021918656304478645, -0.0009681659284979105, 0.029684673994779587, -0.00860055536031723, 0.0035898869391530752, 4.6258373913588e-05, -0.00975235365331173, 0.020525462925434113, -0.01284220814704895, -0.015200980938971043, 0.009897190146148205, 0.0020156472455710173, 0.016952818259596825, -0.014207813888788223, -0.0005974523373879492, 0.00840054266154766, 0.0057900287210941315, 0.02510506846010685, -0.009973057545721531, -0.01878741942346096, -0.008497100323438644, 0.021684158593416214, -0.004169234540313482, 0.012690474279224873, 0.017532166093587875, 0.0071108038537204266, -0.00898678693920374, -0.03321593627333641, 0.018856389448046684, 0.007152185775339603, 0.014290577732026577, 0.0012587019009515643, 0.026043061167001724, 0.00991098489612341, -0.015973445028066635, 0.021366896107792854, -0.013787096366286278, 0.0577140711247921, -0.011759379878640175, -0.019256414845585823, 0.008014310151338577, -0.01976679265499115, -0.015628594905138016, -0.08381230384111404, -0.020911695435643196, 0.017559753730893135, 0.015683770179748535, 8.287173113785684e-05, 0.015835504978895187, -0.0024432612117379904, 0.009869602508842945, -0.007152185775339603, 0.00956613477319479, 0.01873224414885044, -0.032305534929037094, -0.022704914212226868, -0.009262667037546635, 0.03131236508488655, 0.007269434630870819, -0.0035554019268602133, -0.013759508728981018, 0.005131365731358528, 0.02280147187411785, 0.0021794510539621115, -0.019228827208280563, -0.011186929419636726, 0.0070901126600801945, -0.004393387120217085, -0.03186412528157234, -0.01780804619193077, 0.020194407552480698, 0.027919042855501175, 0.01624932512640953, 0.018828801810741425, -0.008704010397195816, 0.008000516332685947, -0.033464230597019196, -0.002524300944060087, -0.01144211832433939, -0.022263506427407265, -0.03007090650498867, -0.003367458702996373, -0.0213531032204628, 0.014414723962545395, -0.011352457106113434, 0.004069228190928698, -0.03142271935939789, -0.029022563248872757, -0.008214323781430721, -0.0024708490818738937, 0.037933483719825745, 0.032995231449604034, -0.02767075225710869, 2.799210778903216e-05, -0.0301536712795496, -0.028360450640320778, -0.02219453640282154, 0.0022639392409473658, 0.006159018259495497, 0.008386747911572456, 0.02507748082280159, -0.021739333868026733, -0.013483628630638123, 0.01302842702716589, 0.014580251649022102, -0.013814684934914112, 0.01112485583871603, 0.008966095745563507, 0.011669718660414219, 0.014076770283281803, -0.005841756239533424, 0.012324933893978596, -0.023339437320828438, -0.025863738730549812, 0.026070648804306984, -0.010393774136900902, 0.006952173076570034, -0.02138069085776806, -0.003196757985278964, 0.0027398320380598307, -0.018594304099678993, 0.04494083300232887, -0.01051792036741972, -0.01149729359894991, -0.02074616588652134, -0.0037623117677867413, -0.013442247174680233, 0.009097139351069927, 0.01437334157526493, 0.0035450563300400972, -0.004738236777484417, -0.0020690991077572107, -0.031229602172970772, -0.01598723791539669, 0.026525849476456642, 0.016290707513689995, -0.02623617649078369, -0.001975989667698741, -0.0054382821545004845, 0.018663274124264717, 0.006772851105779409, 0.036664433777332306, -0.0019673684146255255, 0.01685626059770584, 0.0026277557481080294, -0.07288746535778046, 0.026677584275603294, 0.004424423445016146, -0.014525075443089008, -0.009317843243479729, -0.025932708755135536, -0.0006276267231442034, -0.03274694085121155, 0.007669460494071245, 0.014952689409255981, -0.00517964456230402, 0.03823694959282875, -0.006717674899846315, -0.02109101600944996, -0.001211285125464201, -0.026567231863737106, 0.025725798681378365, -0.03448498621582985, 0.00955234095454216, 0.011911113746464252, -0.0018708104034885764, -0.007455653510987759, 0.01415263768285513, 0.03365734592080116, 0.011973186396062374, 0.00043925250065512955, -0.0066866385750472546, 0.03818177431821823, -0.030319198966026306, -0.01702178828418255, -0.001048343488946557, -0.037905894219875336, -0.012690474279224873, 0.02277388423681259, -0.021339308470487595, -0.017132140696048737, -0.021104810759425163, 0.003310558618977666, 0.01033170148730278, 0.02502230554819107, -0.007683254778385162, 0.0008138456614688039, 0.017614930868148804, -0.020828930661082268, -0.0038278333377093077, 0.004838243126869202, 0.001326809753663838, -0.004286483395844698, 0.020511668175458908, 0.00022156602062750608, 0.03191930055618286, 0.008710906840860844, 0.0034519468899816275, -0.030264021828770638, -0.007945340126752853, -0.01973920501768589, 0.01301463320851326, 0.00011433928011683747, -0.007331507746130228, -0.0019966806285083294, 0.038650769740343094, 0.02285664714872837, 0.020359935238957405, -0.000988856889307499, 0.012055950239300728, 0.00391749432310462, 0.005076189525425434, 0.0024984371848404408, 0.009159212000668049, -0.02579476870596409, 0.011538675986230373, -0.006434897892177105, 0.004383041523396969, 0.024236047640442848, -0.0014130222843959928, 0.010745521634817123, -0.0012414593948051333, -0.016028620302677155, -0.046099528670310974, 0.046623699367046356, -0.003658856963738799, -0.023367024958133698, -0.014207813888788223, 0.011180032044649124, 0.03630579262971878, 0.01566997729241848, -0.011421427130699158, 0.0006030561635270715, -0.019242621958255768, 0.013118088245391846, -0.036029912531375885, 0.013642259873449802, -0.009090241976082325, -0.021794511005282402, 0.02360152266919613, 0.008938508108258247, 0.012676680460572243, 0.0036347173154354095, 0.003658856963738799, 0.02893979847431183, -0.0023742911871522665, 0.006359030958265066, 0.0160148274153471, -0.033519405871629715, 0.012662886641919613, 0.022387651726603508, -0.0021035841200500727, -0.029160503298044205, 0.007407374680042267, -0.010890358127653599, 0.013773302547633648, 0.001394055550917983, -0.02262214943766594, 0.026222381740808487, -0.0031984823290258646, 0.03186412528157234, 0.02140827849507332, -0.02874668315052986, -0.02626376412808895, 0.01858050934970379, 0.008883331902325153, 0.0007483241497538984, -0.012028362601995468, -0.03939564526081085, 0.01437334157526493, -0.014704396948218346, 0.012449079193174839, -0.032884880900382996, 0.0024036034010350704, 0.0029863996896892786, -0.02536715380847454, 0.003384701209142804, -0.005131365731358528, -0.02602926641702652, 0.008890229277312756, 0.002400154946371913, -0.006155569572001696, 0.00955234095454216, 0.014497487805783749, 0.043064847588539124, 0.03437463194131851, 0.008352262899279594, 0.013462938368320465, 0.003945082426071167, 0.013007735833525658, 0.00546242156997323, 0.020042672753334045, -0.02314632199704647, 0.0023329092655330896, 0.03211241587996483, 0.0005711575504392385, -0.010035130195319653, -0.009117829613387585, -0.008545379154384136, 0.00613143015652895, 0.017063170671463013, -0.018925359472632408, 0.00296570872887969, -0.00468306103721261, 0.002341530518606305, -0.0008509170147590339, 0.016056207939982414, 0.0194771196693182, -0.03067784197628498, 0.000294846628094092, 0.008310881443321705, 0.004758927971124649, -0.008738495409488678, -0.010324804112315178, 0.024373987689614296, -0.006203848868608475, -0.0363609679043293, -0.018663274124264717, 0.011952495202422142, -0.0020087503362447023, -0.005621052347123623, 0.0020380625501275063, -0.008069486357271671, 0.02291182428598404, 0.010807594284415245, 0.026512056589126587, -0.005917623173445463, 0.004762376192957163, 0.019670234993100166, -0.048637621104717255, -0.024718837812542915, 0.0018639133777469397, -0.0136353624984622] relevent documents
+2024-08-25 17:20:23,252 - RAGAppLogger - ERROR - Error in document retrieval 'NoneType' object has no attribute 'search'
+2024-08-25 17:20:23,253 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:20:23,254 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:20:23] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:23:35,377 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:23:35,391 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:23:35,475 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:23:35,475 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:23:36,290 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:23:36,715 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:23:37,148 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:23:40,053 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:23:40,631 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:23:40,844 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:23:41,427 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:23:41,443 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:23:41,443 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:23:49,143 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:23:56,830 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:24:04,872 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:24:14,603 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:24:23,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:24:32,207 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:24:41,483 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:24:54,311 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:25:03,474 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:25:12,081 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:25:14,654 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:25:14,654 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:25:14,654 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:25:15,419 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:25:16,217 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:25:16,232 - RAGAppLogger - INFO - DONE
+2024-08-25 17:25:16,256 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:25:16,256 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:25:43,027 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:25:43,027 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:25:43,517 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:25:43,573 - RAGAppLogger - ERROR - Error in document retrieval 'NoneType' object has no attribute 'search'
+2024-08-25 17:25:43,574 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:25:43,575 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:25:43] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:28:28,919 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:28:28,947 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:28:29,025 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:28:29,026 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:28:29,943 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:28:30,422 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:28:30,868 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:28:33,806 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:28:34,408 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:28:34,600 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:28:35,205 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:28:35,205 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:28:35,205 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:28:43,087 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:28:50,948 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:28:58,791 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:07,751 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:15,964 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:24,283 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:32,622 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:41,514 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:49,885 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:29:57,335 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:30:00,257 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:30:00,257 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:30:00,257 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:30:00,974 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:30:01,390 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:30:01,390 - RAGAppLogger - INFO - DONE
+2024-08-25 17:30:01,415 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:30:01,478 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:30:12,061 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:30:12,061 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:30:12,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:30:12,698 - RAGAppLogger - ERROR - Error in document retrieval VectorStore.search() missing 1 required positional argument: 'search_type'
+2024-08-25 17:30:12,699 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:30:12,700 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:30:12] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:33:20,796 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:33:24,396 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:33:24,480 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:33:24,494 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:33:25,284 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:33:25,701 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:33:26,132 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:33:29,111 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:33:29,757 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:33:29,967 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:33:30,712 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:33:30,728 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:33:30,728 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:33:39,176 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:33:47,109 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:33:55,288 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:34:05,035 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:34:14,420 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:34:22,730 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:34:33,898 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:34:43,332 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:34:52,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:35:01,201 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:35:03,995 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:35:03,995 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:35:03,995 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:35:04,729 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:35:05,463 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:35:05,463 - RAGAppLogger - INFO - DONE
+2024-08-25 17:35:05,494 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:35:05,494 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:35:14,473 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:35:14,473 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:35:14,992 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:35:15,013 - RAGAppLogger - ERROR - Error in document retrieval 'IndexFlatL2' object is not callable
+2024-08-25 17:35:15,015 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:35:15,019 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:35:15] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:37:13,301 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:37:13,345 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:37:13,421 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:37:13,421 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:37:14,363 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:37:14,778 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:37:15,222 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:37:18,253 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:37:18,877 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:37:19,095 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:37:19,736 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:37:19,736 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:37:19,736 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:37:27,453 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:37:35,465 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:37:44,165 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:37:54,416 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:03,189 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:11,764 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:20,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:30,631 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:38,849 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:47,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:38:50,140 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 17:38:50,140 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 17:38:50,140 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 17:38:50,889 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 17:38:51,421 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 17:38:51,436 - RAGAppLogger - INFO - DONE
+2024-08-25 17:38:51,466 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 17:38:51,467 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 17:39:08,408 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 17:39:08,408 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 17:39:09,508 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:39:09,556 - RAGAppLogger - ERROR - Error in document retrieval 'NoneType' object has no attribute 'search'
+2024-08-25 17:39:09,556 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 17:39:09,557 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 17:39:09] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 17:59:03,741 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 17:59:03,782 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 17:59:03,848 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 17:59:03,849 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 17:59:04,662 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 17:59:05,053 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 17:59:05,490 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 17:59:08,365 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 17:59:08,942 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 17:59:09,136 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 17:59:09,738 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 17:59:09,754 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 17:59:09,754 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 17:59:17,907 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:59:27,675 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:59:36,306 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:59:45,985 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 17:59:55,717 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:00:04,790 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:00:14,250 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:00:23,149 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:00:30,827 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:00:38,480 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:00:41,043 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 18:00:41,058 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 18:00:41,058 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 18:00:41,830 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 18:00:43,047 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 18:00:43,047 - RAGAppLogger - INFO - DONE
+2024-08-25 18:04:28,920 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 18:04:28,955 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 18:04:29,100 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 18:04:29,101 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 18:04:29,964 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 18:04:30,363 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 18:04:30,842 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 18:04:33,762 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 18:04:34,355 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 18:04:34,605 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 18:04:35,183 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 18:04:35,199 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 18:04:35,199 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 18:04:43,578 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:04:51,772 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:00,423 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:08,805 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:16,956 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:25,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:33,530 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:42,807 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:50,355 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:05:57,698 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:06:00,269 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 18:06:00,269 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 18:06:00,269 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 18:06:01,003 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 18:06:01,513 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 18:06:01,513 - RAGAppLogger - INFO - DONE
+2024-08-25 18:06:01,541 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 18:06:01,543 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 18:06:09,862 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 18:06:09,863 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 18:06:09,864 - RAGAppLogger - ERROR - Vector store or index is None, cannot perform similarity search.
+2024-08-25 18:06:09,864 - RAGAppLogger - ERROR - Error in document retrieval Vector store or index is None, cannot perform similarity search.
+2024-08-25 18:06:09,866 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 18:06:09,866 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 18:06:09] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-25 18:13:37,860 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 18:13:37,895 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 18:13:37,995 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 18:13:37,995 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 18:13:38,871 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 18:13:39,302 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 18:13:39,852 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 18:13:43,150 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 18:13:43,789 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 18:13:43,994 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 18:13:44,619 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 18:13:44,619 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 18:13:44,619 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 18:13:44,653 - RAGAppLogger - ERROR - Error in embedding generation : 'OpenAIEmbeddings' object has no attribute 'get_embedding'
+2024-08-25 18:13:44,653 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to generate embeddings
+2024-08-25 18:14:06,229 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-25 18:14:06,275 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-25 18:14:06,387 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-25 18:14:06,388 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-25 18:14:07,166 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-25 18:14:07,713 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-25 18:14:08,166 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-25 18:14:11,056 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-25 18:14:11,633 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-25 18:14:11,845 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-25 18:14:12,429 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-25 18:14:12,445 - RAGAppLogger - INFO - Embedding generation
+2024-08-25 18:14:12,445 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-25 18:14:19,818 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:14:27,315 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:14:35,712 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:14:44,663 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:14:54,526 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:15:03,833 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:15:13,471 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:15:22,088 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:15:30,120 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:15:37,151 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:15:39,726 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-25 18:15:39,726 - RAGAppLogger - INFO - Embedding storage
+2024-08-25 18:15:39,726 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-25 18:15:39,726 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-25 18:15:40,491 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-25 18:15:41,084 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-25 18:15:41,084 - RAGAppLogger - INFO - DONE
+2024-08-25 18:15:41,101 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-25 18:15:41,102 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-25 18:16:15,914 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-25 18:16:15,914 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-25 18:16:16,433 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-25 18:16:16,455 - RAGAppLogger - ERROR - Error in document retrieval 'numpy.ndarray' object has no attribute 'search'
+2024-08-25 18:16:16,457 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-25 18:16:16,459 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2024 18:16:16] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-26 10:20:24,037 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:20:24,209 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:20:24,771 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:20:25,050 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:20:27,721 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:20:28,449 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:20:29,532 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:20:34,515 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:20:37,670 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:20:38,169 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:20:38,982 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:20:38,982 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:20:38,982 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:20:44,340 - openai._base_client - INFO - Retrying request to /embeddings in 0.826438 seconds
+2024-08-26 10:20:45,230 - openai._base_client - INFO - Retrying request to /embeddings in 1.824476 seconds
+2024-08-26 10:20:47,073 - RAGAppLogger - ERROR - Error in embedding generation : Connection error.
+2024-08-26 10:20:47,073 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to generate embeddings
+2024-08-26 10:28:37,416 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:28:39,121 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:28:39,265 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:28:39,265 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:28:42,133 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:28:42,606 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:28:43,039 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:28:45,929 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:28:46,522 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:28:46,816 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:28:47,414 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:28:47,430 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:28:47,430 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:28:52,411 - openai._base_client - INFO - Retrying request to /embeddings in 0.999668 seconds
+2024-08-26 10:28:53,427 - openai._base_client - INFO - Retrying request to /embeddings in 1.716083 seconds
+2024-08-26 10:28:55,161 - RAGAppLogger - ERROR - Error in embedding generation : Connection error.
+2024-08-26 10:28:55,161 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to generate embeddings
+2024-08-26 10:31:23,742 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:31:23,773 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:31:23,833 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:31:23,834 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:31:24,782 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:31:25,196 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:31:25,720 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:31:29,475 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:31:30,214 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:31:30,471 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:31:31,452 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:31:31,459 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:31:31,460 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:31:40,987 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:31:51,270 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:32:00,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:32:12,166 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:32:22,060 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:32:33,751 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:32:43,270 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:32:55,926 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:33:06,109 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:33:14,557 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:33:17,827 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 10:33:17,827 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 10:33:17,827 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 10:33:17,827 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 10:33:17,827 - RAGAppLogger - INFO - Error in vector store operations : 'list' object has no attribute 'embed_query'
+2024-08-26 10:33:17,827 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 10:40:48,992 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:40:50,099 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:40:50,253 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:40:50,253 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:40:53,217 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:40:53,876 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:40:54,548 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:40:59,545 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:41:00,506 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:41:00,878 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:41:02,115 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:41:02,131 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:41:02,131 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:41:14,378 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:41:25,279 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:41:37,869 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:41:50,879 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:03,187 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:12,605 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:23,477 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:33,893 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:43,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:51,867 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:42:54,700 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 10:42:54,700 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 10:42:54,700 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 10:42:54,700 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 10:42:54,700 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 10:42:54,750 - RAGAppLogger - INFO - Error in vector store operations : 'list' object is not callable
+2024-08-26 10:42:54,750 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 10:48:04,288 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:48:04,329 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:48:04,389 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:48:04,389 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:48:05,178 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:48:05,604 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:48:06,010 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:48:08,911 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:48:09,660 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:48:09,880 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:48:10,645 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:48:10,661 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:48:10,661 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:48:19,248 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:48:28,817 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:48:37,558 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:48:47,072 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:48:56,224 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:49:09,007 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:49:18,633 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:49:28,713 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:49:39,523 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:49:47,922 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:49:51,018 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 10:49:51,026 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 10:49:51,026 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 10:49:51,027 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 10:49:51,740 - RAGAppLogger - INFO - Error in vector store operations : too many values to unpack (expected 2)
+2024-08-26 10:49:51,746 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 10:50:27,961 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:50:27,991 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:50:28,064 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:50:28,067 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:50:29,017 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:50:29,487 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:50:30,028 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:50:33,618 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:50:34,258 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:50:34,497 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:50:35,132 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:50:35,146 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:50:35,150 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:50:47,929 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:50:57,540 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:51:08,155 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:51:18,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:51:28,809 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:51:39,129 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:51:49,359 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:51:59,815 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:52:10,912 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:52:29,509 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:52:32,807 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 10:52:32,813 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 10:52:32,813 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 10:52:32,814 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 10:52:33,638 - RAGAppLogger - INFO - Error in vector store operations : FAISS.__init__() missing 1 required positional argument: 'index_to_docstore_id'
+2024-08-26 10:52:33,643 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 10:54:10,123 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:54:10,167 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:54:10,263 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:54:10,264 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:54:11,357 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:54:11,776 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:54:12,209 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:54:17,016 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:54:18,369 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:54:18,810 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:54:20,105 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:54:20,120 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:54:20,120 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:54:34,793 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:54:43,317 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:54:52,754 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:55:02,907 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:55:11,966 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:55:21,749 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:55:32,083 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:55:41,205 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:55:50,830 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:56:00,047 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:56:03,104 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 10:56:03,107 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 10:56:03,107 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 10:56:03,108 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 10:56:04,075 - RAGAppLogger - INFO - Error in vector store operations : FAISS.__init__() missing 1 required positional argument: 'docstore'
+2024-08-26 10:56:04,078 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 10:56:30,523 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 10:56:30,558 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 10:56:30,625 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 10:56:30,630 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 10:56:31,512 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 10:56:31,914 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 10:56:32,376 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 10:56:35,452 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 10:56:36,048 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 10:56:36,259 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 10:56:36,883 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 10:56:36,894 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 10:56:36,894 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 10:56:45,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:56:55,343 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:57:04,967 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:57:14,800 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:57:23,815 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:57:32,617 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:57:41,629 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:57:50,845 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:58:00,059 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:58:08,049 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 10:58:10,884 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 10:58:10,891 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 10:58:10,891 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 10:58:10,892 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 10:58:11,668 - RAGAppLogger - INFO - Error in vector store operations : FAISS.__init__() missing 1 required positional argument: 'embedding_function'
+2024-08-26 10:58:11,678 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 11:01:08,964 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 11:01:08,999 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 11:01:09,069 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 11:01:09,070 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 11:01:09,978 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 11:01:10,477 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 11:01:10,928 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 11:01:15,680 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 11:01:17,082 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 11:01:17,573 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 11:01:19,006 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 11:01:19,021 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 11:01:19,021 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 11:01:34,288 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:01:50,055 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:02:02,957 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:02:18,318 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:02:33,269 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:02:46,287 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:02:56,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:03:10,133 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:03:24,878 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:03:33,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:03:36,623 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 11:03:36,632 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 11:03:36,632 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 11:03:36,633 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 11:03:37,465 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 11:03:37,940 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-26 11:03:37,970 - RAGAppLogger - INFO - DONE
+2024-08-26 11:03:38,232 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-26 11:03:38,245 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 11:03:50,899 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-26 11:03:50,901 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:03:51,502 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:03:51,773 - RAGAppLogger - ERROR - Error in document retrieval 'InMemoryDocstore' object is not subscriptable
+2024-08-26 11:03:51,778 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-26 11:03:51,780 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:03:51] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-26 11:07:12,790 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 11:07:12,813 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 11:07:12,967 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 11:07:12,985 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 11:07:13,973 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 11:07:14,494 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 11:07:14,971 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 11:07:18,747 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 11:07:19,500 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 11:07:19,725 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 11:07:20,356 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 11:07:20,367 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 11:07:20,371 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 11:07:33,717 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:07:48,458 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:07:59,517 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:08:10,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:08:20,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:08:31,669 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:08:48,056 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:08:58,773 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:09:08,677 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:09:17,754 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:09:20,796 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 11:09:20,799 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 11:09:20,799 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 11:09:20,800 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 11:09:21,600 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 11:09:22,556 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-26 11:09:22,585 - RAGAppLogger - INFO - DONE
+2024-08-26 11:09:22,603 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-26 11:09:22,605 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 11:09:38,856 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-26 11:09:38,859 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:09:39,461 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:09:39,467 - RAGAppLogger - ERROR - Error in document retrieval 'InMemoryDocstore' object is not subscriptable
+2024-08-26 11:09:39,478 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-26 11:09:39,479 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:09:39] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-26 11:12:21,817 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-26 11:12:21,822 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:12:22,528 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:12:22,562 - RAGAppLogger - ERROR - Error in document retrieval 'InMemoryDocstore' object is not subscriptable
+2024-08-26 11:12:22,563 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-26 11:12:22,564 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:12:22] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-26 11:12:31,260 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 11:12:31,293 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 11:12:31,374 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 11:12:31,385 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 11:12:32,289 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 11:12:32,818 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 11:12:33,667 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 11:12:37,573 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 11:12:38,216 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 11:12:38,547 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 11:12:39,288 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 11:12:39,306 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 11:12:39,311 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 11:12:50,952 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:13:00,577 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:13:13,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:13:25,563 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:13:36,212 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:13:45,838 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:13:56,694 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:14:06,933 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:14:16,150 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:14:26,388 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:14:29,477 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 11:14:29,478 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 11:14:29,478 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 11:14:29,479 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 11:14:30,307 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 11:14:30,749 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-26 11:14:30,782 - RAGAppLogger - INFO - DONE
+2024-08-26 11:14:30,797 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-26 11:14:30,799 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 11:14:47,777 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-26 11:14:47,779 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:14:48,536 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:14:48,540 - RAGAppLogger - ERROR - Error in document retrieval 'list' object has no attribute 'reshape'
+2024-08-26 11:14:48,543 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-26 11:14:48,545 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:14:48] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-26 11:15:45,533 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 11:15:45,562 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 11:15:45,644 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 11:15:45,648 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 11:15:46,485 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 11:15:46,898 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 11:15:47,354 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 11:15:50,347 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 11:15:51,609 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 11:15:52,079 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 11:15:53,005 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 11:15:53,013 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 11:15:53,013 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 11:16:01,506 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:16:11,351 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:16:20,567 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:16:31,416 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:16:40,569 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:16:50,851 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:17:00,505 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:17:10,949 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:17:20,778 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:17:32,043 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:17:35,499 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 11:17:35,499 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 11:17:35,499 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 11:17:35,515 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 11:17:36,978 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 11:17:36,981 - RAGAppLogger - INFO - Error in vector store operations : 'list' object is not callable
+2024-08-26 11:17:36,983 - RAGAppLogger - CRITICAL - Critical Error during init : Failed to store embedding to FAISS
+2024-08-26 11:19:17,204 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 11:19:17,263 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 11:19:17,396 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 11:19:17,396 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 11:19:19,181 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 11:19:20,078 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 11:19:20,998 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 11:19:25,420 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 11:19:26,072 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 11:19:26,314 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 11:19:27,079 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 11:19:27,086 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 11:19:27,087 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 11:19:36,358 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:19:47,828 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:19:57,248 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:20:07,079 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:20:16,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:20:25,966 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:20:35,546 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:20:45,170 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:20:54,798 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:21:02,784 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:21:05,670 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 11:21:05,671 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 11:21:05,671 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 11:21:05,672 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 11:21:06,437 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 11:21:06,935 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-26 11:21:06,963 - RAGAppLogger - INFO - DONE
+2024-08-26 11:21:06,980 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-26 11:21:07,006 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 11:21:13,945 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-26 11:21:13,947 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:21:14,667 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:21:14,676 - RAGAppLogger - ERROR - Error in document retrieval 'list' object has no attribute 'reshape'
+2024-08-26 11:21:14,678 - RAGAppLogger - ERROR - Error processing query: Failed to retrive relevent documents 
+2024-08-26 11:21:14,682 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:21:14] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-08-26 11:23:02,996 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-08-26 11:23:03,030 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-08-26 11:23:03,267 - RAGAppLogger - INFO - Loading and preprocessing the pdfs
+2024-08-26 11:23:03,271 - RAGAppLogger - INFO - Processing PDF : A Course in Machine Learning.pdf
+2024-08-26 11:23:04,348 - RAGAppLogger - INFO - Processing PDF : Advanced Machine Learning with Python.pdf
+2024-08-26 11:23:04,803 - RAGAppLogger - INFO - Processing PDF : Building Machine Learning Systems with Python - Second Edition.pdf
+2024-08-26 11:23:05,288 - RAGAppLogger - INFO - Processing PDF : deeplearningbook.pdf
+2024-08-26 11:23:08,273 - RAGAppLogger - INFO - Processing PDF : Introduction to Machine Learning with Python.pdf
+2024-08-26 11:23:08,867 - RAGAppLogger - INFO - Processing PDF : Learning NumPy Array.pdf
+2024-08-26 11:23:09,127 - RAGAppLogger - INFO - Processing PDF : Learning scikit-learn - Machine Learning in Python.pdf
+2024-08-26 11:23:09,749 - RAGAppLogger - INFO - Sucessfully processed 9895 documents chunks
+2024-08-26 11:23:09,767 - RAGAppLogger - INFO - Embedding generation
+2024-08-26 11:23:09,767 - RAGAppLogger - INFO - Starting embeddings generation
+2024-08-26 11:23:17,341 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:23:27,064 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:23:37,002 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:23:46,422 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:23:55,639 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:04,796 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:13,870 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:23,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:32,910 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:42,130 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:44,920 - RAGAppLogger - INFO - Generated embeddings for 9895 documents
+2024-08-26 11:24:44,920 - RAGAppLogger - INFO - Embedding storage
+2024-08-26 11:24:44,927 - RAGAppLogger - INFO - Storing embeddings in FAISS vector store
+2024-08-26 11:24:44,928 - RAGAppLogger - INFO - FAISS index initialized with dimensionality: 1536
+2024-08-26 11:24:45,666 - langchain_community.vectorstores.faiss - WARNING - `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2024-08-26 11:24:46,209 - RAGAppLogger - INFO - Stored embeddings in FAISS vector store successfully
+2024-08-26 11:24:46,212 - RAGAppLogger - INFO - DONE
+2024-08-26 11:24:46,237 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.199:5000
+2024-08-26 11:24:46,238 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 11:24:55,150 - RAGAppLogger - INFO - Received query: What is XgBoosst?
+2024-08-26 11:24:55,151 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:24:56,462 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:24:56,490 - RAGAppLogger - INFO - Retrived 5 relevent documents
+2024-08-26 11:24:56,492 - RAGAppLogger - INFO - Generating resonse based on context and question
+2024-08-26 11:24:58,307 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-08-26 11:24:58,393 - RAGAppLogger - INFO - Generated resonse based on context and question
+2024-08-26 11:24:58,401 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:24:58] "POST /query HTTP/1.1" 200 -
+2024-08-26 11:25:39,692 - RAGAppLogger - INFO - Received query: Support vector machine ?
+2024-08-26 11:25:39,695 - RAGAppLogger - INFO - Retrieving relevent documents
+2024-08-26 11:25:40,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-08-26 11:25:40,296 - RAGAppLogger - INFO - Retrived 5 relevent documents
+2024-08-26 11:25:40,310 - RAGAppLogger - INFO - Generating resonse based on context and question
+2024-08-26 11:25:41,932 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-08-26 11:25:41,935 - RAGAppLogger - INFO - Generated resonse based on context and question
+2024-08-26 11:25:41,939 - werkzeug - INFO - 127.0.0.1 - - [26/Aug/2024 11:25:41] "POST /query HTTP/1.1" 200 -
